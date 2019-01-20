@@ -1,0 +1,247 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="selina.com" resolutions="1x" timestamp="1548010498439">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="449423706" ref="visual-art:digital-works:engineering:index"/>
+    <file name="visual-art.css" crc="381771457" ref="visual-art"/>
+    <file name="digital-works.css" crc="4124880618" ref="digital-works"/>
+    <file name="engineering.css" crc="197752662" ref="engineering"/>
+    <file name="index.css" crc="4152689596" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="avenirnext-regular.woff" crc="3913969213"/>
+    <file name="avenirnext-regular.eot" crc="508861161"/>
+    <file name="avenirnext-demibold-03.woff" crc="3817862318"/>
+    <file name="avenirnext-demibold.eot" crc="88855548"/>
+    <file name="polly-regular.woff" crc="4034003181"/>
+    <file name="polly-regular.eot" crc="59360061"/>
+    <file name="polly-regular.svg" crc="188777802"/>
+    <file name="avenirnext-italic.woff" crc="115811721"/>
+    <file name="avenirnext-italic.eot" crc="341393729"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="visual-art:digital-works:engineering:index"/>
+    <file name="museutils.js" crc="4232573551" ref="visual-art:digital-works:engineering:index"/>
+    <file name="whatinput.js" crc="86476730" ref="visual-art:digital-works:engineering:index"/>
+    <file name="museconfig.js" crc="4152223963" ref="visual-art:digital-works:engineering:index"/>
+    <file name="jquery.musemenu.js" crc="38860304" ref="visual-art:digital-works:engineering:index"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="visual-art:digital-works:engineering:index"/>
+    <file name="webpro.js" crc="3770351119" ref="visual-art:digital-works:engineering"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="visual-art:digital-works:engineering"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="visual-art:digital-works:engineering"/>
+    <file name="touchswipe.js" crc="3912873526" ref="visual-art:digital-works:engineering"/>
+    <file name="html5shiv.js" crc="4241844378" ref="visual-art:digital-works:engineering:index"/>
+    <file name="require.js" crc="4234670167" ref="visual-art:digital-works:engineering:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="pasted image 1745x1745.png" crc="4128153789" seo="true" ref="visual-art:digital-works:engineering:index">
+      <caption webpage="engineering" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="digital-works" alt=""/>
+      <caption webpage="visual-art" alt=""/>
+    </file>
+    <file name="u2494-4.png" crc="3885246809" ref="visual-art:digital-works:engineering:index"/>
+    <file name="blank.gif" crc="4208392903" ref="visual-art:digital-works:engineering:index"/>
+    <file name="u5286.png" crc="3900470050" ref="visual-art:digital-works:engineering:index"/>
+    <file name="u5286-r.png" crc="4167108254" ref="visual-art:digital-works:engineering:index"/>
+    <file name="u5286-m.png" crc="4247998558" ref="visual-art:digital-works:engineering:index"/>
+    <file name="u5286-a.png" crc="4167108254" ref="visual-art:digital-works:engineering:index"/>
+    <file name="u4882.png" crc="13858809" ref="visual-art:digital-works:engineering:index"/>
+    <file name="u4882-r.png" crc="184904127" ref="visual-art:digital-works:engineering:index"/>
+    <file name="u4882-m.png" crc="155802209" ref="visual-art:digital-works:engineering:index"/>
+    <file name="u4882-a.png" crc="184904127" ref="visual-art:digital-works:engineering:index"/>
+    <file name="u2520.png" crc="464443946" ref="visual-art:digital-works:engineering:index"/>
+    <file name="u2520-r.png" crc="299522740" ref="visual-art:digital-works:engineering:index"/>
+    <file name="u2520-m.png" crc="405975570" ref="visual-art:digital-works:engineering:index"/>
+    <file name="u2520-a.png" crc="299522740" ref="visual-art:digital-works:engineering:index"/>
+    <file name="u2499.png" crc="188977669" ref="visual-art:digital-works:engineering:index"/>
+    <file name="u2499-r.png" crc="4194090284" ref="visual-art:digital-works:engineering:index"/>
+    <file name="u2499-m.png" crc="312783374" ref="visual-art:digital-works:engineering:index"/>
+    <file name="u2499-a.png" crc="4194090284" ref="visual-art:digital-works:engineering:index"/>
+    <file name="knife.png" crc="35267592" ref="visual-art:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="visual-art" alt=""/>
+    </file>
+    <file name="5 sink or float editable.png" crc="91449029" seo="true" ref="visual-art">
+      <caption webpage="visual-art" alt=""/>
+    </file>
+    <file name="pineapple glass2.png" crc="517800019" seo="true" ref="visual-art">
+      <caption webpage="visual-art" alt=""/>
+    </file>
+    <file name="negative spaces minor white back.jpg" crc="4252395564" seo="true" ref="visual-art">
+      <caption webpage="visual-art" alt=""/>
+    </file>
+    <file name="fish painting.jpg" crc="18879722" seo="true" ref="visual-art">
+      <caption webpage="visual-art" alt=""/>
+    </file>
+    <file name="img_3540.jpg" crc="117281247" seo="true" ref="visual-art">
+      <caption webpage="visual-art" alt=""/>
+    </file>
+    <file name="3 intense interiors.jpg" crc="163348307" seo="true" ref="visual-art">
+      <caption webpage="visual-art" alt=""/>
+    </file>
+    <file name="ink cropped.jpg" crc="353093084" seo="true" ref="visual-art">
+      <caption webpage="visual-art" alt=""/>
+    </file>
+    <file name="img_5220 crop.jpg" crc="84838876" seo="true" ref="visual-art">
+      <caption webpage="visual-art" alt=""/>
+    </file>
+    <file name="sheep.jpg" crc="4086794440" seo="true" ref="visual-art">
+      <caption webpage="visual-art" alt=""/>
+    </file>
+    <file name="3 papered landscape.png" crc="4066283785" seo="true" ref="visual-art">
+      <caption webpage="visual-art" alt=""/>
+    </file>
+    <file name="4 hidden pop culture.png" crc="201839899" seo="true" ref="visual-art">
+      <caption webpage="visual-art" alt=""/>
+    </file>
+    <file name="4 it-s all about the details.jpg" crc="4202990698" seo="true" ref="visual-art">
+      <caption webpage="visual-art" alt=""/>
+    </file>
+    <file name="hand.png" crc="4131633423" seo="true" ref="visual-art">
+      <caption webpage="visual-art" alt=""/>
+    </file>
+    <file name="knife-crop-u1446.png" crc="3814548017" seo="true" ref="visual-art">
+      <caption webpage="visual-art" alt=""/>
+    </file>
+    <file name="5 sink or float editable-crop-u2246.png" crc="4244148402" seo="true" ref="visual-art">
+      <caption webpage="visual-art" alt=""/>
+    </file>
+    <file name="pineapple glass2-crop-u1953.png" crc="425293485" seo="true" ref="visual-art">
+      <caption webpage="visual-art" alt=""/>
+    </file>
+    <file name="negative spaces minor white back-crop-u1626.jpg" crc="4152543680" seo="true" ref="visual-art">
+      <caption webpage="visual-art" alt=""/>
+    </file>
+    <file name="fish painting76x61.jpg" crc="3836719532" seo="true" ref="visual-art">
+      <caption webpage="visual-art" alt=""/>
+    </file>
+    <file name="img_354081x59.jpg" crc="62581121" seo="true" ref="visual-art">
+      <caption webpage="visual-art" alt=""/>
+    </file>
+    <file name="3 intense interiors77x59.jpg" crc="4239230521" seo="true" ref="visual-art">
+      <caption webpage="visual-art" alt=""/>
+    </file>
+    <file name="ink cropped-crop-u1606.jpg" crc="276276991" seo="true" ref="visual-art">
+      <caption webpage="visual-art" alt=""/>
+    </file>
+    <file name="img_5220 crop-crop-u1706.jpg" crc="3769876052" seo="true" ref="visual-art">
+      <caption webpage="visual-art" alt=""/>
+    </file>
+    <file name="sheep-crop-u1726.jpg" crc="4022241985" seo="true" ref="visual-art">
+      <caption webpage="visual-art" alt=""/>
+    </file>
+    <file name="3 papered landscape81x60.png" crc="529508294" seo="true" ref="visual-art">
+      <caption webpage="visual-art" alt=""/>
+    </file>
+    <file name="4 hidden pop culture79x59.png" crc="189589903" seo="true" ref="visual-art">
+      <caption webpage="visual-art" alt=""/>
+    </file>
+    <file name="4 it-s all about the details83x60.jpg" crc="4047670940" seo="true" ref="visual-art">
+      <caption webpage="visual-art" alt=""/>
+    </file>
+    <file name="hand-crop-u1586.png" crc="4194555361" seo="true" ref="visual-art">
+      <caption webpage="visual-art" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="visual-art:digital-works:engineering"/>
+    <file name="u688-6.png" crc="99869725" ref="visual-art"/>
+    <file name="pasted-svg-733x37.svg" crc="60944591" seo="true" ref="visual-art">
+      <caption webpage="visual-art" alt=""/>
+    </file>
+    <file name="pasted svg 733x37_poster_.png" crc="406725995" ref="visual-art"/>
+    <file name="hsu_selina_typography.gif" crc="3893497470" seo="true" ref="digital-works">
+      <caption webpage="digital-works" alt=""/>
+      <caption webpage="digital-works" alt=""/>
+    </file>
+    <file name="lizzyyy-01.jpg" crc="267419982" seo="true" ref="digital-works">
+      <caption webpage="digital-works" alt=""/>
+    </file>
+    <file name="one week screen.png" crc="108510625" seo="true" ref="digital-works">
+      <caption webpage="digital-works" alt=""/>
+    </file>
+    <file name="mun poster clean-01.jpg" crc="530307626" seo="true" ref="digital-works">
+      <caption webpage="digital-works" alt=""/>
+    </file>
+    <file name="2 selina.jpg" crc="4017969693" seo="true" ref="digital-works">
+      <caption webpage="digital-works" alt=""/>
+    </file>
+    <file name="double page spread.jpg" crc="442578095" seo="true" ref="digital-works">
+      <caption webpage="digital-works" alt=""/>
+    </file>
+    <file name="hsu_selina_characterdesign.jpg" crc="468061428" seo="true" ref="digital-works">
+      <caption webpage="digital-works" alt=""/>
+    </file>
+    <file name="chemmm2-01.jpg" crc="4287554346" seo="true" ref="digital-works">
+      <caption webpage="digital-works" alt=""/>
+    </file>
+    <file name="market day 2017-01.png" crc="338622131" seo="true" ref="digital-works">
+      <caption webpage="digital-works" alt=""/>
+    </file>
+    <file name="lizzyyy-0192x59.jpg" crc="155302431" seo="true" ref="digital-works">
+      <caption webpage="digital-works" alt=""/>
+    </file>
+    <file name="one week screen-crop-u4199.png" crc="4240856742" seo="true" ref="digital-works">
+      <caption webpage="digital-works" alt=""/>
+    </file>
+    <file name="mun poster clean-01-crop-u4148.jpg" crc="4159882612" seo="true" ref="digital-works">
+      <caption webpage="digital-works" alt=""/>
+    </file>
+    <file name="2 selina-crop-u4028.jpg" crc="3963302829" seo="true" ref="digital-works">
+      <caption webpage="digital-works" alt=""/>
+    </file>
+    <file name="double page spread92x59.jpg" crc="3775453738" seo="true" ref="digital-works">
+      <caption webpage="digital-works" alt=""/>
+    </file>
+    <file name="hsu_selina_characterdesign-crop-u4108.jpg" crc="3839140566" seo="true" ref="digital-works">
+      <caption webpage="digital-works" alt=""/>
+    </file>
+    <file name="chemmm2-01-crop-u4647.jpg" crc="24028209" seo="true" ref="digital-works">
+      <caption webpage="digital-works" alt=""/>
+    </file>
+    <file name="market day 2017-01-crop-u4675.png" crc="519471486" seo="true" ref="digital-works">
+      <caption webpage="digital-works" alt=""/>
+    </file>
+    <file name="u3965-4.png" crc="210177828" ref="digital-works"/>
+    <file name="pasted-svg-932x37.svg" crc="3975539237" seo="true" ref="digital-works:engineering">
+      <caption webpage="digital-works" alt=""/>
+      <caption webpage="engineering" alt=""/>
+    </file>
+    <file name="pasted svg 932x37_poster_.png" crc="4020987891" ref="digital-works"/>
+    <file name="robot.jpg" crc="3971162388" ref="engineering:index">
+      <caption webpage="engineering" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pic.jpg" crc="4083300225" seo="true" ref="engineering">
+      <caption webpage="engineering" alt=""/>
+    </file>
+    <file name="shark.jpg" crc="107569142" seo="true" ref="engineering">
+      <caption webpage="engineering" alt=""/>
+    </file>
+    <file name="vending machine.jpg" crc="3882826015" seo="true" ref="engineering">
+      <caption webpage="engineering" alt=""/>
+    </file>
+    <file name="robot79x59.jpg" crc="416704140" seo="true" ref="engineering">
+      <caption webpage="engineering" alt=""/>
+    </file>
+    <file name="pic-crop-u4976.jpg" crc="3923946000" seo="true" ref="engineering">
+      <caption webpage="engineering" alt=""/>
+    </file>
+    <file name="shark-crop-u5031.jpg" crc="4018443550" seo="true" ref="engineering">
+      <caption webpage="engineering" alt=""/>
+    </file>
+    <file name="vending machine79x59.jpg" crc="475890158" seo="true" ref="engineering">
+      <caption webpage="engineering" alt=""/>
+    </file>
+    <file name="u4769-4.png" crc="151024587" ref="engineering"/>
+    <file name="u4768-4.png" crc="197711008" ref="engineering"/>
+    <file name="u4734-4.png" crc="166313844" ref="engineering"/>
+    <file name="u5318-4.png" crc="346355722" ref="index"/>
+    <file name="u5433-4.png" crc="470250605" ref="index"/>
+    <file name="pasted image 1800x1219-u5312-fr.jpg" crc="4217882620" ref="index"/>
+    <file name="u5319-4.png" crc="19916450" ref="index"/>
+  </folder>
+  <file name="visual-art.html" crc="353069080" seo="true" mt="1548010475943" redirect="true"/>
+  <file name="digital-works.html" crc="188868846" seo="true" mt="1548010475943" redirect="true"/>
+  <file name="engineering.html" crc="56982487" seo="true" mt="1548010475943" redirect="true"/>
+  <file name="index.html" crc="212141773" seo="true" mt="1548010475943" redirect="true"/>
+</manifest>
